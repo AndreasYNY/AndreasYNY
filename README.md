@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there My Name is Andreas👋
 
-<!--
-**AndreasYNY/AndreasYNY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*2nd Year at [SMK Bakti Idhata](http://smkbaktiidhata.com/)* <img src="https://media.giphy.com/media/fQSbz9dcRONsQOvPqS/source.gif" width="50" height="50">
 
-Here are some ideas to get you started:
+![Twitter Follow](https://img.shields.io/twitter/follow/feikuxv?label=Follow%20Me%21&style=social)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### More about me! <img src="https://media.giphy.com/media/Y1IFN5kK9E7fO/source.gif" width="50" height="50">
+
+I'm still learning! i really want to get better!
+
+my current languages:
+
+<img src="html5-brands.svg" height="20" width="20">  <img src="css3-alt-brands.svg" height="20" width="20"> <img src="js-square-brands.svg" height="20" width="20"> <img src="react-brands.svg" height="20" width="20">

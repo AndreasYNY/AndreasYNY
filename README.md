@@ -1,6 +1,6 @@
-## Hi there My Name is Andreas👋
+## Hi there My Name is Andreas 👋
 
-*2nd Year at [SMK Bakti Idhata](http://smkbaktiidhata.com/)* <img src="https://media.giphy.com/media/fQSbz9dcRONsQOvPqS/source.gif" width="50" height="50">
+*almost 3rd Year at [SMK Bakti Idhata](http://smkbaktiidhata.com/)* <img src="https://media.giphy.com/media/fQSbz9dcRONsQOvPqS/source.gif" width="50" height="50">
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/feikuxv?label=Follow%20Me%21&style=social)
 

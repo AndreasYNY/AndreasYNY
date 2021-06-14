@@ -10,4 +10,4 @@ I'm still learning! i really want to get better!
 
 my current languages:
 
-<img src="html5-brands.svg" height="20" width="20">  <img src="css3-alt-brands.svg" height="20" width="20"> <img src="js-square-brands.svg" height="20" width="20"> <img src="react-brands.svg" height="20" width="20">
+<span><img src="html5-brands.svg" height="20" width="20"></span> <img src="css3-alt-brands.svg" height="20" width="20"> <img src="js-square-brands.svg" height="20" width="20"> <img src="react-brands.svg" height="20" width="20">

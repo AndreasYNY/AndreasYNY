@@ -2,7 +2,7 @@
 
 *3rd Year at [SMK Bakti Idhata](http://smkbaktiidhata.com/)* <img src="https://media.giphy.com/media/fQSbz9dcRONsQOvPqS/source.gif" width="50" height="50">
 
-![Twitter Follow](https://img.shields.io/twitter/follow/feikuxv?label=Follow%20Me%21&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/sleepyandreas?label=Follow%20Me%21&style=social)
 
 ### More about me! <img src="https://media.giphy.com/media/Y1IFN5kK9E7fO/source.gif" width="50" height="50">
 

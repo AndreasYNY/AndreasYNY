@@ -1,4 +1,4 @@
-## Hi there My Name is Andreas 👋
+## Hi my name is Andreas 👋
 
 *unemployed*
 

@@ -1,9 +1,3 @@
-<!-- 
-
-this readme is heavily inspired by https://github.com/ouuan/ouuan/blob/master/README.md and some other profiles!
-
--->
-
 <p align="center">
     <img width="50%" src="https://github.com/AndreasYNY/AndreasYNY/assets/46004308/8f82be1a-5f01-4446-b3c7-fd829c3c8cb8">
 </p>
@@ -37,8 +31,5 @@ this readme is heavily inspired by https://github.com/ouuan/ouuan/blob/master/RE
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andreasyny&theme=dracula&layout=compact">
-    <img align="right" width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreasyny&theme=dracula&layout=compact">
+    <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreasyny&theme=dracula&layout=compact">
 </picture>
-
----
-<h3>Most of my repository is private because it's either not impressive or it's customer's stuff.</h3>

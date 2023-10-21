@@ -17,7 +17,6 @@ this readme is heavily inspired by https://github.com/ouuan/ouuan/blob/master/RE
 <a href="https://mas.to/@xilla"><img src="https://img.shields.io/badge/@xilla@mas.to-6364FF?logo=mastodon&logoColor=fff&style=for-the-badge" /></a>
 <a href="mailto:andreasyny@gmx.sg"><img src="https://img.shields.io/badge/andreasyny-EA4335?logo=maildotru&logoColor=fff&style=for-the-badge" /></a>
 <a href="https://stackoverflow.com/users/10832570/andreasyny"><img src="https://img.shields.io/badge/andreasyny-F58025?logo=stackoverflow&logoColor=fff&style=for-the-badge" /></a>
-<a href="https://stackoverflow.com/users/10832570/andreasyny"><img src="https://img.shields.io/badge/andreas-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" /></a>
 
 <!-- [image](https://github.com/AndreasYNY/AndreasYNY/assets/46004308/8f82be1a-5f01-4446-b3c7-fd829c3c8cb8) -->
 

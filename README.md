@@ -15,7 +15,7 @@
 - I'm a freelance fullstack developer currently studying at Universitas Terbuka.
 - I like to write in JS/TS, Python.
 - I know a thing or two about Java, Rust, C# and C++.
-- I use frameworks laravel, vuejs, reactjs, sveltekit.
+- I use frameworks like laravel, vuejs, reactjs, sveltekit.
 
 <h2>My Interest</h2>
 

@@ -10,17 +10,18 @@
 
 <!-- [image](https://github.com/AndreasYNY/AndreasYNY/assets/46004308/8f82be1a-5f01-4446-b3c7-fd829c3c8cb8) -->
 
-<h2> :information_desk_person: About me</h2>
+<h2>About me</h2>
 
-- :boy: I'm a freelance fullstack developer currently studying at Universitas Terbuka.
-- :sparkling_heart: I like to write in JS/TS, PHP, Python.
-- :thinking: I know a thing or two at Java, Rust, C# and C++.
-- :smiling_face_with_three_hearts: I love frameworks like laravel, vuejs, reactjs.
+- I'm a freelance fullstack developer currently studying at Universitas Terbuka.
+- I like to write in JS/TS, Python.
+- I know a thing or two about Java, Rust, C# and C++.
+- I use frameworks laravel, vuejs, reactjs, sveltekit.
 
-<h2>:two_hearts: My Interest</h2>
+<h2>My Interest</h2>
 
-- :penguin: Linux
-- :package: Containers
+- Linux
+- Containers
+- Web apps
 
 <a href="https://github.com/kittinan/spotify-github-profile">
   <picture>

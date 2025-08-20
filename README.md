@@ -12,9 +12,9 @@
 
 <h2>About me</h2>
 
-- I'm a freelance fullstack developer currently studying at Universitas Terbuka.
+- I'm a fullstack developer and part time IT department. currently studying at Universitas Terbuka.
 - I like to write in JS/TS, Python.
-- I know a thing or two about Java, Rust, C# and C++.
+- I know a thing or two about Java, Rust, Go, C# and C++.
 - I use frameworks like laravel, vuejs, reactjs, sveltekit.
 
 <h2>My Interest</h2>
